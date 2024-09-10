@@ -1,1 +1,1 @@
-test
+x = input("Accept a number ")
